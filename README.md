@@ -1,5 +1,8 @@
-# alx-project-0x14
+# 🎬 CineSeek – MoviesDatabase API Integration
 
+A modern movie discovery app that leverages the MoviesDatabase API to access comprehensive entertainment data including over 9 million titles and 11 million actors.
+# 📊 Project Overview
+CineSeek utilizes the MoviesDatabase API to provide detailed movie and TV show information including trailers, awards, biographies, ratings, episodes, and cast information. Perfect for building applications that involve browsing, searching, and filtering movie-related data.
 ## API Overview
 
 The MoviesDatabase API is a comprehensive RESTful web service that provides access to an extensive collection of movie, TV show, and entertainment industry data. This API offers complete and updated information for over 9 million titles including movies, TV series, and individual episodes, along with detailed profiles for more than 11 million actors, directors, writers, and crew members. The API includes rich metadata such as YouTube trailer URLs, award information, full biographies, plot summaries, ratings, release dates, genres, and cast details, making it an ideal solution for developers building entertainment applications, movie discovery platforms, or content recommendation systems.
